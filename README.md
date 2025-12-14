@@ -34,5 +34,3 @@ This project demonstrates basic Object-Oriented Programming (OOP) concepts in Ja
 - Java
 - Object-Oriented Programming (OOP)
 
-## Author
-Roaa Maher
